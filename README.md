@@ -4,10 +4,11 @@ https://github.com/Wiizzy/pixelzone/releases/tag/1.0.0 - VT прилагаетс
 ![image](https://github.com/user-attachments/assets/d1ff7254-354a-4c56-8f61-e8b294b0104f)
 
 ## Скришоты программы 
-![image](https://github.com/user-attachments/assets/17ab1229-a126-43bd-b4bf-0e85df5f0185)
-![image](https://github.com/user-attachments/assets/7e460fb0-ab0c-48cb-94e8-9b2004b272b8)
-![image](https://github.com/user-attachments/assets/98c15264-4a3d-42dd-8d08-a587e461d487)
-Вывод на втором мониторе:
+![image](https://github.com/user-attachments/assets/17ab1229-a126-43bd-b4bf-0e85df5f0185) <br>
+![image](https://github.com/user-attachments/assets/7e460fb0-ab0c-48cb-94e8-9b2004b272b8) <br>
+![image](https://github.com/user-attachments/assets/98c15264-4a3d-42dd-8d08-a587e461d487) <br>
+Вывод на втором мониторе:<br>
+
 ![image](https://github.com/user-attachments/assets/df519b9a-684a-45cc-bacc-9c5915eca2ef)
 
 
